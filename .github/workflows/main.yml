@@ -8,6 +8,8 @@ on:
     branches:
       - main
 
+
+
 jobs:
   launch-ec2-instance:
     runs-on: ubuntu-latest
