@@ -1,5 +1,5 @@
 name: EC2 Instance Launch CI/CD
-
+                                                      
 on:
   push:
     branches:
